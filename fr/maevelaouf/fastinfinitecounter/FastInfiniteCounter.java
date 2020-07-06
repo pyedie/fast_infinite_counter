@@ -8,7 +8,7 @@ public class FastInfiniteCounter {
 		int t = 0;
 
 		while (true) {
-			System.out.println(t);
+			System.out.println("Number : " + t);
 			t++;
 		}
 
